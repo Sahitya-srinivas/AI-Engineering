@@ -1,0 +1,6 @@
+Java
+Python
+Spring Boot
+SQL
+AI/ML
+Data Science
