@@ -1,3 +1,4 @@
+PYTHON
 Why Python for AI?
     -> Python is go to language for AI due to its simplicity, readability, extensive library and supportive community.
     -> Libraries like numpy, pandas, tensorflow, pytorch and scikit learn make python ideal for machinr learning an data analysis.
